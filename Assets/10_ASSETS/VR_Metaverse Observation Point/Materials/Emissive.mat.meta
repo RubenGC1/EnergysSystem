@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28376e0ec9bbb1740ba29c8cce79dceb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221989
+  packageName: VR/Metaverse Observation Point
+  packageVersion: 1.0
+  assetPath: Assets/VR_Metaverse Observation Point/Materials/Emissive.mat
+  uploadId: 504232

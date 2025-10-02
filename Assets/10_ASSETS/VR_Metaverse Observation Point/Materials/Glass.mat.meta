@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a0d797d897e02b4bae42e74e28c130e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221989
+  packageName: VR/Metaverse Observation Point
+  packageVersion: 1.0
+  assetPath: Assets/VR_Metaverse Observation Point/Materials/Glass.mat
+  uploadId: 504232
