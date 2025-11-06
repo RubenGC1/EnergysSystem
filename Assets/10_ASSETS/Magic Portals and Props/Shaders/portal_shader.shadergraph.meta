@@ -8,10 +8,3 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
-AssetOrigin:
-  serializedVersion: 1
-  productId: 168472
-  packageName: Magic Portals and Props
-  packageVersion: 1.0
-  assetPath: Assets/Magic Portals and Props/Shaders/portal_shader.shadergraph
-  uploadId: 367290
