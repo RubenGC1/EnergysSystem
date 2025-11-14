@@ -6546,13 +6546,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1938879943492086751, guid: 6214353bbd2a23545a7954f7192e9ecf,
         type: 3}
+      propertyPath: m_BoxSize.y
+      value: 10.947348
+      objectReference: {fileID: 0}
+    - target: {fileID: 1938879943492086751, guid: 6214353bbd2a23545a7954f7192e9ecf,
+        type: 3}
       propertyPath: m_BoxOffset.x
       value: 0.13994598
       objectReference: {fileID: 0}
     - target: {fileID: 1938879943492086751, guid: 6214353bbd2a23545a7954f7192e9ecf,
         type: 3}
       propertyPath: m_BoxOffset.y
-      value: -0.869112
+      value: -0.3954382
       objectReference: {fileID: 0}
     - target: {fileID: 2464925281389891299, guid: 6214353bbd2a23545a7954f7192e9ecf,
         type: 3}
@@ -32260,8 +32265,8 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 256
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 61.850937, y: 10, z: 31.461542}
-  m_BoxOffset: {x: 1.9140205, y: 0, z: -10.730775}
+  m_BoxSize: {x: 68.90344, y: 10, z: 34.135376}
+  m_BoxOffset: {x: 1.3840923, y: 0, z: -9.39386}
   m_NearClip: 0.3
   m_FarClip: 1000
   m_ShadowDistance: 100
@@ -74141,8 +74146,8 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 256
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 61.850937, y: 10, z: 31.461542}
-  m_BoxOffset: {x: 1.9140205, y: 0, z: 7.9512634}
+  m_BoxSize: {x: 68.53184, y: 10, z: 32.96113}
+  m_BoxOffset: {x: 1.2408714, y: 0, z: 7.2014694}
   m_NearClip: 0.3
   m_FarClip: 1000
   m_ShadowDistance: 100
