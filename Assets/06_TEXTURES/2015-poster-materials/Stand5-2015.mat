@@ -22,8 +22,6 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Stand5-2015
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _EMISSION
   - _METALLICSPECGLOSSMAP
@@ -38,14 +36,13 @@ Material:
     RenderType: Opaque
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: f57fb2c0463904b42aa99a8877cdd756, type: 3}
-        m_Scale: {x: -0.28, y: 0.21}
-        m_Offset: {x: 0.55, y: 0.24}
+        m_Texture: {fileID: 2800000, guid: 3ef66d9f9d81bd74aa202d27bcf5eb9b, type: 3}
+        m_Scale: {x: -0.25, y: 0.14}
+        m_Offset: {x: 0.35, y: 0.24}
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: 6d282c5492a2b0641ab4ac97e911c109, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -63,13 +60,13 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: f57fb2c0463904b42aa99a8877cdd756, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3ef66d9f9d81bd74aa202d27bcf5eb9b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: f57fb2c0463904b42aa99a8877cdd756, type: 3}
-        m_Scale: {x: -0.28, y: 0.21}
-        m_Offset: {x: 0.55, y: 0.24}
+        m_Texture: {fileID: 2800000, guid: 3ef66d9f9d81bd74aa202d27bcf5eb9b, type: 3}
+        m_Scale: {x: -0.25, y: 0.14}
+        m_Offset: {x: 0.35, y: 0.24}
     - _MetallicGlossMap:
         m_Texture: {fileID: 2800000, guid: cd9d873007c0420449158722f439c69f, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -139,4 +136,3 @@ Material:
     - _EmissionColor: {r: 0.4641509, g: 0.4641509, b: 0.4641509, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1

@@ -22,8 +22,6 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Stand3-2015
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _EMISSION
   - _METALLICSPECGLOSSMAP
@@ -38,14 +36,13 @@ Material:
     RenderType: Opaque
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 206989aa6c289364a809bcc30783baa1, type: 3}
-        m_Scale: {x: -0.28, y: 0.21}
-        m_Offset: {x: 0.52, y: 0.24}
+        m_Texture: {fileID: 2800000, guid: b51d5c8cbd9528548abb93963b53d972, type: 3}
+        m_Scale: {x: -0.17, y: 0.21}
+        m_Offset: {x: 0.1, y: 0.24}
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: 6d282c5492a2b0641ab4ac97e911c109, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -63,13 +60,13 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 206989aa6c289364a809bcc30783baa1, type: 3}
+        m_Texture: {fileID: 2800000, guid: b51d5c8cbd9528548abb93963b53d972, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 206989aa6c289364a809bcc30783baa1, type: 3}
-        m_Scale: {x: -0.28, y: 0.21}
-        m_Offset: {x: 0.52, y: 0.24}
+        m_Texture: {fileID: 2800000, guid: b51d5c8cbd9528548abb93963b53d972, type: 3}
+        m_Scale: {x: -0.17, y: 0.21}
+        m_Offset: {x: 0.1, y: 0.24}
     - _MetallicGlossMap:
         m_Texture: {fileID: 2800000, guid: cd9d873007c0420449158722f439c69f, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -136,7 +133,6 @@ Material:
     m_Colors:
     - _BaseColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
-    - _EmissionColor: {r: 0.4641509, g: 0.4641509, b: 0.4641509, a: 1}
+    - _EmissionColor: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1
